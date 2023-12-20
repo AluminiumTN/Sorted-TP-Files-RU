@@ -2,7 +2,7 @@
 
 |                        Изображения                        |                                                                      Навигация                                                                      |    Местонахождение    |
 |:---------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------:|
-|      ![Anemoculus](assets/img/icons/Anemoculus.png)       |                [Анемокулы](https://github.com/AluminiumTN/Sorted-TP-Files-RU/tree/Sorted-TP-Files-RU/Окулы%20и%20т.д#анемсокулыzip)                 |        Тейват         |
+|      ![Anemoculus](assets/img/icons/Anemoculus.png)       |                [Анемокулы](https://github.com/AluminiumTN/Sorted-TP-Files-RU/tree/Sorted-TP-Files-RU/Окулы%20и%20т.д#анемокулыzip)                 |        Тейват         |
 |    ![CrimsonAgate](assets/img/icons/CrimsonAgate.png)     |            [Багровый агат](https://github.com/AluminiumTN/Sorted-TP-Files-RU/tree/Sorted-TP-Files-RU/Окулы%20и%20т.д#багровые-агатыzip)             |        Тейват         |
 |        ![Geoculus](assets/img/icons/Geoculus.png)         |                   [Геокулы](https://github.com/AluminiumTN/Sorted-TP-Files-RU/tree/Sorted-TP-Files-RU/Окулы%20и%20т.д#геокулыzip)                   |        Тейват         |
 |    ![Electroculus](assets/img/icons/Electroculus.png)     |               [Электрокулы](https://github.com/AluminiumTN/Sorted-TP-Files-RU/tree/Sorted-TP-Files-RU/Окулы%20и%20т.д#электрокулыzip)               |        Тейват         |
