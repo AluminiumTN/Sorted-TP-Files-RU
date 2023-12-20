@@ -1,5 +1,5 @@
 <div class="RepoCover" align="center">
-  <a href="#"><img style="width:600;height:675" src=""></a>
+  <a href="#"><img style="width:600;height:675" src="https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/assets/main/main.png"></a>
 
 
 ## Окулы и так далее
