@@ -1,7 +1,7 @@
 <div class="RepoCover" align="center">
   <a href="#"><img style="width:600;height:675" src="https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/assets/main/main.png"></a>
 <br>
-  <a href="https://discord.gg/cottonbuds"><img src="https://img.shields.io/discord/1064910847790563329?color=%2352b4d8&label=Korepi%20Discord%20server&logo=discord&style=for-the-badge"></a>
+  <a href="https://discord.gg/cottonbuds"><img src="https://img.shields.io/discord/1069057220802781265?color=%2352b4d8&label=Korepi%20Discord%20server&logo=discord&style=for-the-badge"></a>
   <br>
   <a href="https://github.com/AluminiumTN/Sorted-TP-Files-RU/commits/main"><img src="https://img.shields.io/github/last-commit/AluminiumTN/Sorted-TP-Files-RU?label=Last%20Commit&logo=Github&style=flat-square"></a>
 <a href="https://github.com/AluminiumTN/Sorted-TP-Files-RU/releases"><img src="https://img.shields.io/github/downloads/AluminiumTN/Sorted-TP-Files-RU/total?label=Total%20Downloads&logo=Github&style=flat-square"></a>
