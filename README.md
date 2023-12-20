@@ -1,3 +1,7 @@
+<div class="RepoCover" align="center">
+  <a href="#"><img style="width:600;height:675" src=""></a>
+
+
 ## Окулы и так далее
 
 |                        Изображения                        |                                                                      Навигация                                                                      |    Местонахождение    |
