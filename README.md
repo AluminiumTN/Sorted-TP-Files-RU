@@ -1,17 +1,18 @@
 ## Окулы и так далее
 
-|                        Изображения                        |                                                                   Навигация                                                                    |    Местонахождение    |
-|:---------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------:|
-|      ![Anemoculus](assets/img/icons/Anemoculus.png)       |           [Анемокулы](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#anemoculuszip)          |        Тейват         |
-|    ![CrimsonAgate](assets/img/icons/CrimsonAgate.png)     |       [Багровый агат](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#crimson-agatezip)       |        Тейват         |
-|        ![Geoculus](assets/img/icons/Geoculus.png)         |            [Геокулы](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#geoculuszip)             |        Тейват         |
-|    ![Electroculus](assets/img/icons/Electroculus.png)     |        [Электрокулы](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#electroculuszip)         |        Тейват         |
-|       ![Lumenspar](assets/img/icons/Lumenspar.png)        |     [Светоносный кристалл](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#lumensparzip)      | Поземный разлом |
-|       ![Lumenspar](assets/img/icons/Lumenspar.png)        | [Светоносная руда](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#lumenspar-upgradezip)[^1]  |    Поземный разлом    |
-|       ![KeySigil](assets/img/icons/KeySigilNew.png)       |           [Знак-ключ](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#key-sigilzip)           |       Энканомия       |
-|     ![Dendroculus](assets/img/icons/Dendroculus.png)      |       [Дендрокулы](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#dendroculuszip)[^2]        |        Тейват         |
-| ![Plumes](assets/img/icons/Plumes-of-Purifying-Light.png) |    [Оперенье очищающего света](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems/Dendroculus#34zip)[^3]    |        Тейват         |
-|      ![SacredSeal](assets/img/icons/SacredSeal.png)       |     [Скрижали обелисков](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#sacred-sealzip)      |        Тейват         |
+|                        Изображения                        |                                                                      Навигация                                                                      |    Местонахождение    |
+|:---------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------:|
+|      ![Anemoculus](assets/img/icons/Anemoculus.png)       |             [Анемокулы](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#anemoculuszip)             |        Тейват         |
+|    ![CrimsonAgate](assets/img/icons/CrimsonAgate.png)     |         [Багровый агат](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#crimson-agatezip)          |        Тейват         |
+|        ![Geoculus](assets/img/icons/Geoculus.png)         |               [Геокулы](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#geoculuszip)               |        Тейват         |
+|    ![Electroculus](assets/img/icons/Electroculus.png)     |           [Электрокулы](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#electroculuszip)           |        Тейват         |
+|       ![Lumenspar](assets/img/icons/Lumenspar.png)        |        [Светоносный кристалл](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#lumensparzip)        | Поземный разлом |
+|       ![Lumenspar](assets/img/icons/Lumenspar.png)        |    [Светоносная руда](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#lumenspar-upgradezip)[^1]    |    Поземный разлом    |
+|       ![KeySigil](assets/img/icons/KeySigilNew.png)       |             [Знак-ключ](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#key-sigilzip)              |       Энканомия       |
+|     ![Dendroculus](assets/img/icons/Dendroculus.png)      |          [Дендрокулы](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#dendroculuszip)[^2]          |        Тейват         |
+|      ![Hydroculus](assets/img/icons/Hydroculus.png)       |            [Гидрокулы](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#dendroculuszip)             |                       |
+| ![Plumes](assets/img/icons/Plumes-of-Purifying-Light.png) | [Оперенье очищающего света](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems/Dendroculus#34zip)[^3] |        Тейват         |
+|      ![SacredSeal](assets/img/icons/SacredSeal.png)       |        [Скрижали обелисков](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/SpecialItems#sacred-sealzip)        |        Тейват         |
 
 ## Local Specialties
 
