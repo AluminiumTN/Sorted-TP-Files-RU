@@ -1,7 +1,7 @@
 ## Скачивание (просто нажмите на то что вам нужно)
 
 
-### [Анемсокулы.zip](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Окулы%20и%20т.д/Анемокулы.zip)
+### [Анемокулы.zip](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Окулы%20и%20т.д/Анемокулы.zip)
 
 ### [Багровые агаты.zip](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Окулы%20и%20т.д/Багровый%20агат.zip)
 
