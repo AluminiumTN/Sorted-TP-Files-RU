@@ -1,5 +1,5 @@
 ## Скачивание (просто нажмите на то что вам нужно)
-
+> Используйте Ctrl + F для быстрого посика по названию.
 
 ### [Анемокулы.zip](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Окулы%20и%20т.д/Анемокулы.zip)
 
