@@ -71,3 +71,10 @@
 |             ![RuinSentinel](assets/img/icons/RuinSentinel.png)              |             [Часовые руин](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Монстры/Часовые%20руин.zip)             |     Тейват      |
 |                ![ShadowyHusk](assets/img/icons/ShadowyHusk.png)             |              [Чёрные змеи](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Монстры/Чёрные%20Змеи.zip)              |     Тейват      |
 |                ![Samachurl](assets/img/icons/Samachurl.png)                 |                  [Шамачурл](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Монстры/Шамачурл.zip)                  |     Тейват      |
+
+## Минералы
+
+
+|               Изображения               |                                                                                Навигация                                 | Местонахождение  |
+|:---------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:----------------:|
+| ![???](assets/img/icons/Anemoculus.png) |                                                         [????]()                                                         |      Тейват      |
