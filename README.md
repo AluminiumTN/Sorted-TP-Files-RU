@@ -99,3 +99,21 @@ __[3. Минералы](https://github.com/AluminiumTN/Sorted-TP-Files-RU#мин
 |            ![NoctilucousJade](assets/img/icons/NoctilucousJade.png)             |             [Полуночный нефрит](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Минералы/Полуночный%20нефрит.zip)              |     Тейват      |
 |               ![Trishiraite](assets/img/icons2/Trishiraite.webp)                |                      [Тришиарит](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Минералы/Тришиарит.zip)                       |     Тейват      |
 |             ![ElectroCrystal](assets/img/icons/ElectroCrystal.png)              |               [Электро кристалл](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Минералы/Электро%20кристал.zip)               |     Тейват      |
+
+## Животные
+
+
+|                       Изображения                       |                                                                         Навигация                                                                          | Местонахождение |
+|:-------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------:|
+|     ![SunnyLoach](assets/img/icons/SunnyLoach.png)      |                                                                         [Вьюнок]()                                                                         |     Тейват      |
+|     ![Starsilver](assets/img/icons/Starsilver.png)      |                                                                 [Руда звёздного серебра]()                                                                 |     Тейват      |
+| ![CondessenceCrystal](assets/img/icons/Starsilver.png)  |                                                               [Конденсирующиеся кристаллы]()                                                               |     Тейват      |
+|      ![CorLapis](assets/img/icons/Starsilver.png)       |                                                                       [Кор ляпис]()                                                                        |     Тейват      |
+|    ![AmethystLump](assets/img/icons/Starsilver.png)     |                                                                     [Кусок аметиста]()                                                                     |     Тейват      |
+| ![MagicalCrystalChunk](assets/img/icons/Starsilver.png) |                                                              [Магический обломок кристалла]()                                                              |     Тейват      |
+|   ![WhiteIronChunk](assets/img/icons/Starsilver.png)    |                                                                 [Обломок белого железа]()                                                                  |     Тейват      |
+|      ![IronChunk](assets/img/icons/Starsilver.png)      |                                                                     [Обломок железа]()                                                                     |     Тейват      |
+|    ![CrystalChunk](assets/img/icons/Starsilver.png)     |                                                                   [Обломок кристалла]()                                                                    |        Тейват   |
+|   ![NoctilucousJade](assets/img/icons/Starsilver.png)   |                                                                   [Полуночный нефрит]()                                                                    |     Тейват      |
+|     ![Trishiraite](assets/img/icons/Starsilver.png)     |                                                                       [Тришиарит]()                                                                        |     Тейват      |
+|   ![ElectroCrystal](assets/img/icons/Starsilver.png)    |                                                                    [Электро кристалл]()                                                                    |     Тейват      |
