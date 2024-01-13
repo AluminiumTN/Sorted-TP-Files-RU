@@ -26,6 +26,8 @@ __[2. Монстры](https://github.com/AluminiumTN/Sorted-TP-Files-RU#монс
 
 __[3. Минералы](https://github.com/AluminiumTN/Sorted-TP-Files-RU#минералы)__
 
+__[4. Животные](https://github.com/AluminiumTN/Sorted-TP-Files-RU#животные)__
+
 ---
 ## Окулы и так далее
 
@@ -103,17 +105,18 @@ __[3. Минералы](https://github.com/AluminiumTN/Sorted-TP-Files-RU#мин
 ## Животные
 
 
-|                       Изображения                       |                                                                         Навигация                                                                          | Местонахождение |
-|:-------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------:|
-|     ![SunnyLoach](assets/img/icons/SunnyLoach.png)      |                                                                         [Вьюнок]()                                                                         |     Тейват      |
-|     ![Starsilver](assets/img/icons/Starsilver.png)      |                                                                 [Руда звёздного серебра]()                                                                 |     Тейват      |
-| ![CondessenceCrystal](assets/img/icons/Starsilver.png)  |                                                               [Конденсирующиеся кристаллы]()                                                               |     Тейват      |
-|      ![CorLapis](assets/img/icons/Starsilver.png)       |                                                                       [Кор ляпис]()                                                                        |     Тейват      |
-|    ![AmethystLump](assets/img/icons/Starsilver.png)     |                                                                     [Кусок аметиста]()                                                                     |     Тейват      |
-| ![MagicalCrystalChunk](assets/img/icons/Starsilver.png) |                                                              [Магический обломок кристалла]()                                                              |     Тейват      |
-|   ![WhiteIronChunk](assets/img/icons/Starsilver.png)    |                                                                 [Обломок белого железа]()                                                                  |     Тейват      |
-|      ![IronChunk](assets/img/icons/Starsilver.png)      |                                                                     [Обломок железа]()                                                                     |     Тейват      |
-|    ![CrystalChunk](assets/img/icons/Starsilver.png)     |                                                                   [Обломок кристалла]()                                                                    |        Тейват   |
-|   ![NoctilucousJade](assets/img/icons/Starsilver.png)   |                                                                   [Полуночный нефрит]()                                                                    |     Тейват      |
-|     ![Trishiraite](assets/img/icons/Starsilver.png)     |                                                                       [Тришиарит]()                                                                        |     Тейват      |
-|   ![ElectroCrystal](assets/img/icons/Starsilver.png)    |                                                                    [Электро кристалл]()                                                                    |     Тейват      |
+|                        Изображения                         |                                                                           Навигация                                                                           | Местонахождение |
+|:----------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------:|
+|       ![SunnyLoach](assets/img/icons/SunnyLoach.png)       |                       [Вьюнок](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Животные/Вьюнок.zip)                       |     Тейват      |
+|             ![Crab](assets/img/icons/Crab.png)             |                         [Краб](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Животные/Краб.zip)                         |     Тейват      |
+|   ![SandGreasePupa](assets/img/icons/SandGreasePupa.png)   | [Личинка песчаного жировика](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Животные/Личинка%20песчаного%20жировика.zip) |     Тейват      |
+|             ![Frog](assets/img/icons/Frog.png)             |                      [Лягушка](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Животные/Лягушка.zip)                      |     Тейват      |
+|          ![RawMeat](assets/img/icons/RawMeat.png)          |                         [Мясо](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Животные/Мясо.zip)                         |     Тейват      |
+|             ![Fowl](assets/img/icons/Fowl.png)             |                  [Мясо птицы](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Животные/Мясо%20птицы.zip)                  |     Тейват      |
+|             ![Fish](assets/img/icons/Fish.png)             |                         [Рыба](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Животные/Рыба.zip)                         |     Тейват      |
+|     ![LucklightFly](assets/img/icons/LucklightFly.png)     |             [Светлячок удачи](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Животные/Светлячок%20удачи.zip)             |     Тейват      |
+|           ![Scarab](assets/img/icons/Scarab.png)           |                     [Скарабей](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Животные/Скарабей.zip)                     |     Тейват      |
+|    ![QuicksandEel](assets/img/icons/QuicksandEel.webp)     |       [Угорь зыбучих песков](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Животные/Угорь%20зыбучих%20песков.zip)       |     Тейват      |
+| ![AmateurWeaselThief](assets/img/icons/AmateurWeasel.webp) |                   [Хорек вор](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Животные/Хорек%20вор.zip)                   |     Тейват      |
+|      ![ChilledMeat](assets/img/icons/ChilledMeat.png)      |       [Цельномороженное мясо](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Животные/Цельномороженное%20мясо.zip)       |     Тейват      |
+|       ![LizardTail](assets/img/icons/LizardTail.png)       |                        [Хвост ящерицы](https://github.com/AluminiumTN/Sorted-TP-Files-RU/blob/Sorted-TP-Files-RU/Животные/Ящерица.zip)                        |     Тейват      |
