@@ -125,33 +125,69 @@ __[4. Животные](https://github.com/AluminiumTN/Sorted-TP-Files-RU#жив
 ## Растения
 
 
-|           Изображения           | Навигация | Местонахождение |
-|:-------------------------------:|:---------:|:---------------:|
-|   ![](assets/img/icons/.png)    |   []()    |     Тейват      |
-|   ![](assets/img/icons/.png)    |   []()    |     Тейват      |
-|   ![](assets/img/icons/.png)    |   []()    |     Тейват      |
-|   ![](assets/img/icons/.png)    |   []()    |     Тейват      |
-|   ![](assets/img/icons/.png)    |   []()    |     Тейват      |
-|   ![](assets/img/icons/.png)    |   []()    |     Тейват      |
-|   ![](assets/img/icons/.png)    |   []()    |     Тейват      |
-|   ![](assets/img/icons/.png)    |   []()    |     Тейват      |
-|   ![](assets/img/icons/.png)    |   []()    |     Тейват      |
-|   ![](assets/img/icons/.webp)   |   []()    |     Тейват      |
-|   ![](assets/img/icons/.webp)   |   []()    |     Тейват      |
-|   ![](assets/img/icons/.png)    |   []()    |     Тейват      |
-|   ![](assets/img/icons/.png)    |   []()    |     Тейват      |
-|      ![](assets/img/icons/.png) |   []()    |     Тейват      |
-|   ![](assets/img/icons/.png)    |   []()    |                 |
-|   ![](assets/img/icons/.png)    |   []()    |                 |
-|   ![](assets/img/icons/.png)    |   []()    |                 |
-|   ![](assets/img/icons/.png)    |   []()    |                 |
-|   ![](assets/img/icons/.png)    |   []()    |                 |
-|   ![](assets/img/icons/.png)    |   []()    |                 |
-|   ![](assets/img/icons/.png)    |   []()    |                 |
-|   ![](assets/img/icons/.png)    |   []()    |                 |
-|   ![](assets/img/icons/.png)    |   []()    |                 |
-|   ![](assets/img/icons/.png)    |   []()    |                 |
-|   ![](assets/img/icons/.png)    |   []()    |                 |
-|   ![](assets/img/icons/.png)    |   []()    |                 |
-|   ![](assets/img/icons/.png)    |   []()    |                 |
-|   ![](assets/img/icons/.png)    |   []()    |                 |
+|                             Изображения                             |                                                                    Навигация                                                                     | Местонахождение |
+|:-------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------:|
+|         ![AmethystLump](assets/img/icons/AmethystLump.png)          |    [Аметистовая лампа](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Аметистовая%20лампа.zip)     |     Тейват      |
+|             ![Valberry](assets/img/icons/Valberry.png)              |               [Валяшка](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Валяшка.zip)                |     Тейват      |
+|       ![WindwheelAster](assets/img/icons/WindwheelAster.png)        |      [Ветрянная астра](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Ветрянная%20астра.zip)       |     Тейват      |
+|             ![Wolfhook](assets/img/icons/Wolfhook.png)              |          [Волчий крюк](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Волчий%20крюк.zip)           |     Тейват      |
+|            ![GlazeLily](assets/img/icons/GlazeLily.png)             |      [Глазурная лилия](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Глазурная%20лилия.zip)       |     Тейват      |
+|  ![FlamingFlowerStamen](assets/img/icons/FlamingFlowerStamen.png)   |       [Пылающий цветок](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Горящий%20цветок.zip)       |     Тейват      |
+|    ![PhilanemoMushroom](assets/img/icons/PhilanemoMushroom.png)     |        [Гриб филанемо](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Гриб%20филанемо.zip)         |     Тейват      |
+|           ![Starshroom](assets/img/icons/Starshroom.png)            |           [Гриб звезда](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Гриб-звезда.zip)            |     Тейват      |
+|             ![Mushroom](assets/img/icons/Mushroom.png)              |                 [Грибы](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Грибы.zip)                  |     Тейват      |
+| ![RukkhashavaMushrooms](assets/img/icons/RukkhashavaMushrooms.webp) |      [Грибы рукхашава](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Грибы%20руккхашава.zip)      |     Тейват      |
+|           ![Dendrobium](assets/img/icons/Dendrobium.webp)           |            [Дендробиум](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Дендробиум.zip)             |     Тейват      |
+|           ![PluieLotus](assets/img/icons/PluieLotus.webp)           |            [Дожделотос](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Дожделотос.zip)             |     Тейват      |
+|            ![Sunsettia](assets/img/icons/Sunsettia.png)             |              [Закатник](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Закатник.zip)               |     Тейват      |
+|          ![JueyunChili](assets/img/icons/JueyunChili.png)           |     [Заоблачнй перчик](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Заоблачный%20перчик.zip)     |     Тейват      |
+|            ![Horsetail](assets/img/icons/Horsetail.png)             |        [Конский хвост](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Конский%20хвост.zip)         |     Тейват      |
+|           ![HennaBerry](assets/img/icons/HennaBerry.png)            |       [Красноплодник](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Красный%20гребень.zip)        |     Тейват      |
+|        ![LumidouceBell](assets/img/icons/LumidouceBell.webp)        | [Ламповый колокольчик](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Ламповый%20колокольчик.zip)  |     Тейват      |
+|            ![CallaLily](assets/img/icons/CallaLily.png)             |           [Лилия кала](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Лилия%20кала.zip)            |     Тейват      |
+|       ![KalpalataLotus](assets/img/icons/KalpalataLotus.png)        |     [Лотос кальпалата](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Лотос%20кальпалата.zip)      |     Тейват      |
+|       ![NilotpalaLotus](assets/img/icons/NilotpalaLotus.png)        |      [Лотос нилотпала](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Лотос%20нилотпала.zip)       |     Тейват      |
+|           ![Snapdragon](assets/img/icons/Snapdragon.png)            |          [Львиный зев](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Львиный%20зев.zip)           |     Тейват      |
+|               ![Carrot](assets/img/icons/Carrot.png)                |              [Марковка](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Марковка.zip)               |     Тейват      |
+|             ![Marcotte](assets/img/icons/Marcotte.webp)             |                [Маркот](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Маркот.zip)                 |     Тейват      |
+|            ![Matsutake](assets/img/icons/Matsutake.png)             |              [Мацутакэ](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Мацутакэ.zip)               |     Тейват      |
+|             ![Seagrass](assets/img/icons/Seagrass.png)              |        [Морская трава](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Морская%20трава.zip)         |     Тейват      |
+|         ![SeaGanoderma](assets/img/icons/SeaGanoderma.png)          |         [Морской гриб](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Морской%20гриб.zip)          |     Тейват      |
+|                 ![Mint](assets/img/icons/Mint.png)                  |                  [Мята](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Мята.zip)                   |     Тейват      |
+|         ![AjilenakhNut](assets/img/icons/AjilenakhNut.webp)         |      [Орехи аджиленах](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Орехи%20аджиленах.zip)       |     Тейват      |
+|            ![Padisarah](assets/img/icons/Padisarah.png)             |              [Падисара](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Падисара.zip)               |     Тейват      |
+|          ![ZaytunPeach](assets/img/icons/ZaytunPeach.png)           |        [Персик зайтун](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Персик%20зайтун.zip)         |     Тейват      |
+|         ![AmakumoFruit](assets/img/icons/AmakumoFruit.png)          | [Плод облачной травы](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Плод%20облачной%20травы.zip)  |     Тейват      |
+|        ![BambooSegment](assets/img/icons/BambooSegment.png)         |       [Побеги бамбука](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Побеги%20бамбука.zip)        |     Тейват      |
+|           ![BulleFruit](assets/img/icons/BulleFruit.webp)           |               [Пузырин](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Пузырин.zip)                |     Тейват      |
+|          ![RainbowRose](assets/img/icons/RainbowRose.webp)          |        [Радужная роза](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Радужная%20роза.zip)         |     Тейват      |
+|               ![Radish](assets/img/icons/Radish.png)                |               [Редиска](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Редиска.zip)                |     Тейват      |
+|     ![RomaritimeFlower](assets/img/icons/RomaritimeFlower.webp)     |               [Ромарин](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Ромарин.zip)                |     Тейват      |
+|          ![SakuraBloom](assets/img/icons/SakuraBloom.png)           |                [Сакура](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Сакура.zip)                 |     Тейват      |
+|    ![FluorescentFungus](assets/img/icons/FluorescentFungus.png)     |      [Светящийся гриб](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Светящийся%20гриб.zip)       |     Тейват      |
+|        ![DandelionSeed](assets/img/icons/DandelionSeed.png)         |    [Семена одуванчика](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Семена%20одуванчика.zip)     |     Тейват      |
+|              ![Cecilia](assets/img/icons/Cecilia.png)               |               [Сесилия](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Сиселия.zip)                |     Тейват      |
+|           ![SumeruRose](assets/img/icons/SumeruRose.png)            |        [Сумерская роза](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Сумрская%20роза.zip)        |     Тейват      |
+|              ![Tidalga](assets/img/icons/Tidalga.webp)              |               [Тидалья](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Тидалья.zip)                |     Тейват      |
+|             ![NakuWeed](assets/img/icons/NakuWeed.png)              |           [Трава наку](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Трава%20Наку.zip)            |     Тейват      |
+|       ![SmallLampGrass](assets/img/icons/SmallLampGrass.png)        |        [Трава светяшка](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Трава-светяшка.zip)         |     Тейват      |
+|    ![MistFlowerCorolla](assets/img/icons/MistFlowerCorolla.png)     | [Туманный цветок](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Туманный%20цветок%20(венчик).zip) |     Тейват      |
+|        ![LavenderMelon](assets/img/icons/LavenderMelon.png)         |       [Фиалковая дыня](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Фиалковая%20дыня.zip)        |     Тейват      |
+|           ![HarraFruit](assets/img/icons/HarraFruit.png)            |           [Фрукт хара](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Фрукт%20хара.zip)            |     Тейват      |
+|          ![SweetFlower](assets/img/icons/SweetFlower.png)           |       [Цветок сахарок](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Цветок%20сахарок.zip)        |     Тейват      |
+|              ![Qingxin](assets/img/icons/Qingxin.png)               |       [Цветок циньсинь](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Цветок%20цинсинь.zip)       |     Тейват      |
+|       ![MourningFlower](assets/img/icons/MourningFlower.webp)       |         [Цветы скорби](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Цветы%20скорби.zip)          |     Тейват      |
+|            ![LotusHead](assets/img/icons/LotusHead.png)             |       [Чашечка лотоса](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Чашечка%20лотоса.zip)        |     Тейват      |
+|           ![SilkFlower](assets/img/icons/SilkFlower.png)            |                  [Шёлк](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Шелк.zip)                   |     Тейват      |
+|             ![Pinecone](assets/img/icons/Pinecone.png)              |                 [Шишка](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Шишка.zip)                  |     Тейват      |
+|                  ![Apple](assets/img/icons/Apple.png)               |                [Яблоко](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Яблоко.zip)                 |      Тейват     |
+|                ![Berry](assets/img/icons/Berry.png)                 |                       [Ягода](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Растения/Ягода.zip)            |     Тейват      |
+
+## ???
+
+
+|                             Изображения                             |                                                                    Навигация                                                                     | Местонахождение |
+|:-------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------:|
+|                     ![](assets/img/icons/.png)                      |                                                                       []()                                                                       |                 |
+|                     ![](assets/img/icons/.png)                      |                                                                       []()                                                                       |                 |
+|                     ![](assets/img/icons/.png)                      |                                                                       []()                                                                       |                 |
