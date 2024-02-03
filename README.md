@@ -28,6 +28,8 @@ __[3. Минералы](https://github.com/AluminiumTN/Sorted-TP-Files-RU#мин
 
 __[4. Животные](https://github.com/AluminiumTN/Sorted-TP-Files-RU#животные)__
 
+__[5. Растения](https://github.com/AluminiumTN/Sorted-TP-Files-RU#растения)__
+
 ---
 ## Окулы и так далее
 
