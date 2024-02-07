@@ -124,7 +124,7 @@ __[5. Растения](https://github.com/AluminiumTN/Sorted-TP-Files-RU#рас
 |      ![ChilledMeat](assets/img/icons/ChilledMeat.png)      |       [Цельномороженное мясо](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Животные/Цельномороженное%20мясо.zip)       |     Тейват      |
 |       ![LizardTail](assets/img/icons/LizardTail.png)       |                        [Хвост ящерицы](https://github.com/AluminiumTN/Sorted-TP-Files-RU/blob/Sorted-TP-Files-RU/Животные/Ящерица.zip)                        |     Тейват      |
 |        ![Onikabuto](assets/img/icons/Onikabuto.png)        |                    [Оникабуто](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Животные/Оникабуто.zip)                    |     Тейват      |
-|  ![ClearwaterJade](assets/img/icons/ClearwaterJade.webp)   |                                                                    [Нефрит чистой воды]()                                                                     |     Тейват      |
+|  ![ClearwaterJade](assets/img/icons/ClearwaterJade.webp)   |                                                                    [Нефрит чистой воды](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Минералы/Нефрит%20чистой%20воды.zip)                                                                     |     Тейват      |
 
 ## Растения
 
