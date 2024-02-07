@@ -104,6 +104,7 @@ __[5. Растения](https://github.com/AluminiumTN/Sorted-TP-Files-RU#рас
 |     ![NoctilucousJade](assets/img/icons/NoctilucousJade.png)     |             [Полуночный нефрит](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Минералы/Полуночный%20нефрит.zip)              |     Тейват      |
 |        ![Trishiraite](assets/img/icons2/Trishiraite.webp)        |                      [Тришиарит](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Минералы/Тришиарит.zip)                       |     Тейват      |
 |      ![ElectroCrystal](assets/img/icons/ElectroCrystal.png)      |               [Электро кристалл](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Минералы/Электро%20кристал.zip)               |     Тейват      |
+|  ![ClearwaterJade](assets/img/icons/ClearwaterJade.webp)   |                                                                    [Нефрит чистой воды](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Минералы/Нефрит%20чистой%20воды.zip)                                                                     |     Тейват      |
 
 ## Животные
 
@@ -124,7 +125,6 @@ __[5. Растения](https://github.com/AluminiumTN/Sorted-TP-Files-RU#рас
 |      ![ChilledMeat](assets/img/icons/ChilledMeat.png)      |       [Цельномороженное мясо](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Животные/Цельномороженное%20мясо.zip)       |     Тейват      |
 |       ![LizardTail](assets/img/icons/LizardTail.png)       |                        [Хвост ящерицы](https://github.com/AluminiumTN/Sorted-TP-Files-RU/blob/Sorted-TP-Files-RU/Животные/Ящерица.zip)                        |     Тейват      |
 |        ![Onikabuto](assets/img/icons/Onikabuto.png)        |                    [Оникабуто](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Животные/Оникабуто.zip)                    |     Тейват      |
-|  ![ClearwaterJade](assets/img/icons/ClearwaterJade.webp)   |                                                                    [Нефрит чистой воды](https://raw.githubusercontent.com/AluminiumTN/Sorted-TP-Files-RU/Sorted-TP-Files-RU/Минералы/Нефрит%20чистой%20воды.zip)                                                                     |     Тейват      |
 
 ## Растения
 
